@@ -66,5 +66,3 @@ if __name__ == "__main__":
             log.exception("In work loop:")
             log.error("Waiting 10s and restarting.")
             time.sleep(10)
-
-
